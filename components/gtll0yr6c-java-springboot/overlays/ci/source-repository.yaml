@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gtll0yr6c-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gtll0yr6c-java-springboot
